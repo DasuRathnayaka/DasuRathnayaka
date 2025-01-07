@@ -2,7 +2,7 @@ Hi 👋 My name is Dasuni Rathnayaka
  
 **IT Undergraduate | University of Moratuwa**
 
----
+
 
 🔭 **Currently Studying:**  
 BSc. (Hons.) in Information Technology at the University of Moratuwa  
@@ -10,12 +10,12 @@ BSc. (Hons.) in Information Technology at the University of Moratuwa
 📫 **How to Reach Me:**  
 [dasu.rathnayaka@gmail.com](mailto:*dasu.rathnayaka@gmail.com)  
 
----
+
 
 ## 🌐 Connect with Me   
 - [LinkedIn](https://linkedin.com/in/dasuni-rathnayaka)  
 
----
+
 
 ## 🛠️ Languages and Tools  
 
@@ -34,15 +34,11 @@ BSc. (Hons.) in Information Technology at the University of Moratuwa
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
----
 
-## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dasurathnayaka&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasurathnayaka&layout=compact&theme=radical)  
 
----
 
-⭐️ **Follow me for more updates!**  
+
+
 
 
 
